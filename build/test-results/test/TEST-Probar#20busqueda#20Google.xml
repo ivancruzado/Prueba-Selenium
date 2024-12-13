@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Probar busqueda Google" tests="1" skipped="0" failures="1" errors="0" timestamp="2024-01-05T13:42:07" hostname="DESKTOP-2PNF895" time="0.104">
+  <properties/>
+  <testcase name="Busca algo de goolge" classname="Probar busqueda Google" time="0.104">
+    <failure message="io.cucumber.junit.UndefinedStepException: The step 'navego a Google' and 2 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Given(&quot;navego a Google&quot;)&#10;public void navego_a_google() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;busco algo&quot;)&#10;public void busco_algo() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;encuentro algo&quot;)&#10;public void encuentro_algo() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step 'navego a Google' and 2 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given(&quot;navego a Google&quot;)
+public void navego_a_google() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;busco algo&quot;)
+public void busco_algo() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;encuentro algo&quot;)
+public void encuentro_algo() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
